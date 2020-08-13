@@ -1,9 +1,11 @@
 [Install Homebridge]: https://github.com/nfarina/homebridge#installation
+[Install HOOBS]: https://hoobs.org
 [Install free@home API]: https://github.com/henry-spanka/freeathome-api
 [Configuration]: #Configuration
 
 [sstadlberger]: https://github.com/sstadlberger
 [Home Hub]: https://support.apple.com/en-us/HT207057
+[![certified-hoobs-plugin](https://badgen.net/badge/HOOBS/Certified/yellow)](https://plugins.hoobs.org/plugin/homebridge-freeathome)
 
 # homebridge-freeathome
 
